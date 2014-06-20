@@ -20,9 +20,25 @@ totalDamage += damageThisRound;
 
         youHit=Math.floor(Math.random()*2);
         }
-    }{
+    }else{ alert("You cannot defeat Trogdor! Refresh page to try again");
+        slaying=false;
     }
 }
 
+var ending= prompt("Did you win?");
 
+if(ending==="")alert("did you win? yes or no");
+
+if (ending==="yes")alert("Good job, you still owe me a new lizard!");
+
+
+if(ending==="no");
+    alert("Refresh the page to try again");
+
+
+
+
+console.log(youHit);
+console.log(damageThisRound);
+console.log(totalDamage);
 
