@@ -38,7 +38,7 @@ if(ending==="no");
 
 
 
-console.log(youHit);
-console.log(damageThisRound);
-console.log(totalDamage);
+console.log("You hit my lizard "+youHit +" times");
+console.log("You hit my mighty lizard and did "+damageThisRound+ " damage!");
+console.log("Your total damage was "+totalDamage);
 
