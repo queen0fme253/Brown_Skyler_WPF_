@@ -12,13 +12,13 @@ if(workDuty==="driving"){alert("I need to be at work by 4a.m.");//if driving the
 
 }//conditional phrase to decide if I start work at 4am or 6am
 
-var startTime= prompt("what time was given to start work?");
+var startTime= prompt("what time was given to start work?");//prompt to get the start time given by first set of conditionals.
 
-if(startTime==="")var startTime= prompt("enter your given start time for work as just a number no suffix");
+if(startTime==="")var startTime= prompt("enter your given start time for work as just a number no suffix");//validation prompt with starting variable included.
 
-if(startTime==="4"){alert("I will be off work at noon");
+if(startTime==="4"){alert("I will be off work at noon");//alert for start time as 4am.
 
 }else{
 
-    alert("I will be off work at 2pm");
+    alert("I will be off work at 2pm");//conditional alert for a start time other than 4.
 }
