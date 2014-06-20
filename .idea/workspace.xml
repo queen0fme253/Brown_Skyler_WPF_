@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5caf43e5-cc4e-4094-830b-bae2dcf5eea8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conditionals_industry/javascript.js" afterPath="$PROJECT_DIR$/conditionals_industry/javascript.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conditionals_industry/html.index.html" afterPath="$PROJECT_DIR$/conditionals_industry/html.index.html" />
     </list>
     <ignored path="Brown_Skyler_WPF_.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,20 +25,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="html.index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="html.index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/conditionals_industry/html.index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="255">
-              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.25660965" vertical-offset="0" max-vertical-offset="643">
+              <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="javascript.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="javascript.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conditionals_industry/javascript.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.62968516" vertical-offset="0" max-vertical-offset="667">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
               <caret line="28" column="102" selection-start-line="28" selection-start-column="102" selection-end-line="28" selection-end-column="102" />
               <folding />
             </state>
@@ -60,8 +60,8 @@
       <list>
         <option value="$PROJECT_DIR$/Conditionals Personal/html.index.html" />
         <option value="$PROJECT_DIR$/Conditionals Personal/javascript.js" />
-        <option value="$PROJECT_DIR$/conditionals_industry/html.index.html" />
         <option value="$PROJECT_DIR$/conditionals_industry/javascript.js" />
+        <option value="$PROJECT_DIR$/conditionals_industry/html.index.html" />
       </list>
     </option>
   </component>
@@ -243,18 +243,18 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/conditionals_industry/html.index.html">
+    <entry file="file://$PROJECT_DIR$/conditionals_industry/javascript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="255">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+          <caret line="28" column="102" selection-start-line="28" selection-start-column="102" selection-end-line="28" selection-end-column="102" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conditionals_industry/javascript.js">
+    <entry file="file://$PROJECT_DIR$/conditionals_industry/html.index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.62968516" vertical-offset="0" max-vertical-offset="667">
-          <caret line="28" column="102" selection-start-line="28" selection-start-column="102" selection-end-line="28" selection-end-column="102" />
+        <state vertical-scroll-proportion="0.25660965" vertical-offset="0" max-vertical-offset="315">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
           <folding />
         </state>
       </provider>
