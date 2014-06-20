@@ -11,7 +11,7 @@ if(workDuty==="driving"){alert("I need to be at work by 4a.m.");//if driving the
     alert("need to be at work at 6a.m.");
 
 
-console.log(workDuty);//this should log the start time for my work day.
+console.log(workDuty +" this is my duty for today.");//this should log the start time for my work day.
 
 }//conditional phrase to decide if I start work at 4am or 6am
 
@@ -26,4 +26,5 @@ if(startTime==="4"){alert("I will be off work at noon");//alert for start time a
     alert("I will be off work at 2pm");//conditional alert for a start time other than 4.
 }
 
-console.log(startTime);//this log should give the time that I get off of work
+console.log(workDuty +" this is my duty for today.");//this should log the start time for my work day.
+console.log(startTime +" is the time i should start work");//this log should give the time that I get off of work
