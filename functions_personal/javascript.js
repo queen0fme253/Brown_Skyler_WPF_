@@ -35,3 +35,5 @@ function CalcInterest(SubTotal,loan){
     return interest;
 }//Function for total interest gained on student loan.
 
+console.log("this is your total interest gained on your student loan $"+interest);//console.log added to give the user the interest gained
+alert("this is your total interest gained on your student loan $"+interest);//alert given to give the user the total interest gained.
