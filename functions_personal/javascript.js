@@ -9,3 +9,11 @@ var time=prompt("How many years until your first payment occurs?");//variable fo
 while(time===""){
     loan=prompt("Do not leave blank, enter years until first payment occurs.");//validation loop for var time.
 }
+
+var rate=prompt("What is the rate on your student loan as a decimal?");//third variable is variable for rate of interest.
+while(rate===""){
+    rate=prompt("Enter a value for rate of interest on loan as a decimal, do not leave blank ");//validation for var rate.
+
+}
+
+
