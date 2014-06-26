@@ -29,3 +29,9 @@ function SubTotal(loan,rate,time){
 console.log("this is your subtotal "+SubTotal)
 } //first function. Function for SubTotal.
 
+var interest=CalcInterest(SubTotal,loan);
+function CalcInterest(SubTotal,loan){
+    interest=(SubTotal - loan);
+    return interest;
+}//Function for total interest gained on student loan.
+
