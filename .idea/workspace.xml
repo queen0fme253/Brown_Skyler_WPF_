@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5caf43e5-cc4e-4094-830b-bae2dcf5eea8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functions_personal/javascript.js" afterPath="$PROJECT_DIR$/functions_personal/javascript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions_industry/html.index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions_industry/javascript.js" />
     </list>
     <ignored path="Brown_Skyler_WPF_.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,20 +27,20 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="html.index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/functions_personal/html.index.html">
+        <entry file="file://$PROJECT_DIR$/Functions_industry/html.index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="255">
-              <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+            <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="240">
+              <caret line="8" column="78" selection-start-line="8" selection-start-column="78" selection-end-line="8" selection-end-column="78" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="javascript.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/functions_personal/javascript.js">
+        <entry file="file://$PROJECT_DIR$/Functions_industry/javascript.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6971514" vertical-offset="0" max-vertical-offset="667">
-              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.022058824" vertical-offset="0" max-vertical-offset="680">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -66,6 +67,8 @@
         <option value="$PROJECT_DIR$/Whacky_Conditional/javascript.js" />
         <option value="$PROJECT_DIR$/functions_personal/html.index.html" />
         <option value="$PROJECT_DIR$/functions_personal/javascript.js" />
+        <option value="$PROJECT_DIR$/Functions_industry/html.index.html" />
+        <option value="$PROJECT_DIR$/Functions_industry/javascript.js" />
       </list>
     </option>
   </component>
@@ -144,7 +147,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="functions_personal" />
+              <option name="myItemId" value="Functions_industry" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -177,6 +180,7 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/functions_personal" />
     </key>
   </component>
   <component name="RunManager">
@@ -307,18 +311,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functions_personal/html.index.html">
+    <entry file="file://$PROJECT_DIR$/Functions_industry/html.index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="255">
-          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="240">
+          <caret line="8" column="78" selection-start-line="8" selection-start-column="78" selection-end-line="8" selection-end-column="78" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/functions_personal/javascript.js">
+    <entry file="file://$PROJECT_DIR$/Functions_industry/javascript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6971514" vertical-offset="0" max-vertical-offset="667">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.022058824" vertical-offset="0" max-vertical-offset="680">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
