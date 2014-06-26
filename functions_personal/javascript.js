@@ -16,4 +16,9 @@ while(rate===""){
 
 }
 
-
+if(rate>1){
+    rate=(rate/100);//Makes percentage into a decimal
+}
+else{
+    console.log("Good job, your percentage was written as a decimal");//Log to confirm correct percentage.
+}
