@@ -22,3 +22,10 @@ if(rate>1){
 else{
     console.log("Good job, your percentage was written as a decimal");//Log to confirm correct percentage.
 }
+
+SubTotal(loan,rate,time);
+function SubTotal(loan,rate,time){
+    SubTotal=loan*rate*time;
+console.log("this is your subtotal "+SubTotal)
+} //first function. Function for SubTotal.
+
