@@ -23,3 +23,6 @@ if(BMI>18.5 && BMI<25){
 if(BMI<18.5){
     alert("You are too thin");//Conditional for too thin.
 }
+if(BMI>25){
+    alert("You could lose some weight");//conditional for too big
+}
