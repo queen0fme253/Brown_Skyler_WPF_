@@ -12,4 +12,6 @@ while(i===""){
 CalcResistance(p,i);
 function CalcResistance(p,i){
     CalcResistance=p/(i*i);
-}
+}//Anonymous function to solve for resistance in ohms.
+console.log("Your resistance is "+CalcResistance+" ohms");
+alert("Your resistance is "+CalcResistance+" ohms");//Alert and console log to display ohms to user.
