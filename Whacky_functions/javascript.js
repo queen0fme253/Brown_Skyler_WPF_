@@ -25,4 +25,7 @@ if(BMI<18.5){
 }
 if(BMI>25){
     alert("You could lose some weight");//conditional for too big
+
+}else{
+    alert("please refresh webpage and try again. there was an error with your mesurments");
 }
