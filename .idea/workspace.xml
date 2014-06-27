@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5caf43e5-cc4e-4094-830b-bae2dcf5eea8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Whacky_functions/html.index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Whacky_functions/javascript.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Whacky_functions/javascript.js" afterPath="$PROJECT_DIR$/Whacky_functions/javascript.js" />
     </list>
     <ignored path="Brown_Skyler_WPF_.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,8 +38,8 @@
       <file leaf-file-name="javascript.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Whacky_functions/javascript.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
-              <caret line="0" column="34" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.2023988" vertical-offset="0" max-vertical-offset="667">
+              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -323,8 +322,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Whacky_functions/javascript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
-          <caret line="0" column="34" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.2023988" vertical-offset="0" max-vertical-offset="667">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
           <folding />
         </state>
       </provider>
