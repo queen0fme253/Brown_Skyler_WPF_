@@ -16,3 +16,7 @@ function BMI(height,weight){
     console.log("your BMI is "+BMI);
     return BMI;
 }//Function and console.log for BMI
+
+if(BMI>18.5 && BMI<25){
+    alert("You are healthy");//conditional for healthy
+}
