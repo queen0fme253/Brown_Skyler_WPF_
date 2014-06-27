@@ -20,3 +20,6 @@ function BMI(height,weight){
 if(BMI>18.5 && BMI<25){
     alert("You are healthy");//conditional for healthy
 }
+if(BMI<18.5){
+    alert("You are too thin");//Conditional for too thin.
+}
